@@ -1,4 +1,4 @@
-\#First Entry for K-Logic Devboard
+#First Entry for K-Logic Devboard
 
 
 
@@ -12,9 +12,9 @@ After that I started working on the schematic for my devboard based off of the t
 
 
 
-!\[image](https://stasis.hackclub-assets.com/images/1773115587877-p02a9r.png)
+![image](https://stasis.hackclub-assets.com/images/1773115587877-p02a9r.png)
 
 
 
-!\[image](https://stasis.hackclub-assets.com/images/1773115598849-irdvxj.png)
+![image](https://stasis.hackclub-assets.com/images/1773115598849-irdvxj.png)
 
