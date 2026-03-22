@@ -1,0 +1,54 @@
+** Drc report for K-Logic-Devboard.kicad_pcb **
+** Created on 2026-03-14T18:25:56-0400 **
+
+** Found 0 DRC violations **
+
+** Found 11 unconnected pads **
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(80.7500 mm, 43.5000 mm): Zone [GND] on F.Cu and B.Cu, priority 1
+    @(82.6100 mm, 63.1500 mm): PTH pad 8 [GND] of J2
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(85.3805 mm, 74.9253 mm): Pad 2 [GND] of C6 on F.Cu
+    @(80.7500 mm, 43.5000 mm): Zone [GND] on F.Cu and B.Cu, priority 1
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(80.7500 mm, 43.5000 mm): Zone [GND] on F.Cu and B.Cu, priority 1
+    @(86.9000 mm, 66.5000 mm): Pad 4 [GND] of U3 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(89.0950 mm, 64.0000 mm): Pad 1 [GND] of C17 on F.Cu
+    @(80.7500 mm, 43.5000 mm): Zone [GND] on F.Cu and B.Cu, priority 1
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(89.0950 mm, 64.0000 mm): Pad 1 [GND] of C17 on F.Cu
+    @(86.9000 mm, 66.5000 mm): Pad 4 [GND] of U3 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(90.5000 mm, 76.9375 mm): Pad 19 [GND] of U1 on F.Cu
+    @(89.6589 mm, 76.0911 mm): Track [GND] on B.Cu, length 0.5782 mm
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(92.0000 mm, 64.0400 mm): Pad 2 [GND] of C4 on F.Cu
+    @(80.7500 mm, 43.5000 mm): Zone [GND] on F.Cu and B.Cu, priority 1
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(93.5000 mm, 64.0200 mm): Pad 2 [GND] of C3 on F.Cu
+    @(92.0000 mm, 64.0400 mm): Pad 2 [GND] of C4 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(80.7500 mm, 43.5000 mm): Zone [GND] on F.Cu and B.Cu, priority 1
+    @(80.7500 mm, 43.5000 mm): Zone [GND] on F.Cu and B.Cu, priority 1
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(91.3000 mm, 70.0625 mm): Track [+1V1] on F.Cu, length 1.5615 mm
+    @(92.1000 mm, 76.9375 mm): Track [+1V1] on F.Cu, length 0.8454 mm
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(93.5032 mm, 69.3240 mm): Track [+1V1] on F.Cu, length 0.2874 mm
+    @(91.3010 mm, 68.5000 mm): Track [+1V1] on F.Cu, length 1.0262 mm
+
+** Found 0 Footprint errors **
+
+** End of Report **
